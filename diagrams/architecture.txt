@@ -1,0 +1,13 @@
+Frontend Form
+↓
+FastAPI Backend
+↓
+Lead Classification
+↓
+AI Response Generation
+↓
+Provider Routing
+↓
+Similarity Search
+↓
+Database / CRM
