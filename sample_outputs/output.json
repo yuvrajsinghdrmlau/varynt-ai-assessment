@@ -1,0 +1,13 @@
+{
+  "input": {
+    "name": "Rahul",
+    "company": "ABC Media",
+    "budget": "10000",
+    "timeline": "Immediate",
+    "message": "Need urgent AI automation"
+  },
+  "output": {
+    "lead_type": "HOT",
+    "score": 90
+  }
+}
